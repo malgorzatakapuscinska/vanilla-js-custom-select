@@ -1,1 +1,1 @@
-# vanilla-js-custom-selectre
+# vanilla-js-custom-select
